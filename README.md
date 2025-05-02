@@ -18,6 +18,13 @@ A ferramenta funciona criando pedidos em paralelo utilizando a API da VTEX. O fl
 3. Processamento de pagamento
 4. Confirmação do pedido
 
+## Documentação
+
+Documentação detalhada está disponível na pasta [docs](docs):
+
+- [Configuração](docs/configuracao.md) - Como configurar a ferramenta corretamente
+- [Funcionamento](docs/funcionamento.md) - Detalhes técnicos sobre o funcionamento
+
 ## Instalação
 
 1. Clone o repositório:

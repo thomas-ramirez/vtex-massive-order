@@ -1,0 +1,19 @@
+{
+  "name": "massive-orders",
+  "version": "1.0.0",
+  "description": "Ferramenta para criar múltiplos pedidos na VTEX",
+  "main": "massive.js",
+  "scripts": {
+    "start": "node massive.js"
+  },
+  "keywords": [
+    "vtex",
+    "orders",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
